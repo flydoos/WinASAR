@@ -16,7 +16,7 @@
 
 WinASAR文件管理工具（也叫：WinASAR文件压缩/解压工具、WinASAR文件打包/解包工具）由“牛A与牛C之间”开发制作，这是一款高仿 WinRAR 制作的 Electron ASAR 文件管理工具，部分功能也参考了 7-Zip。本程序主要功能用于 .Asar 文件的压缩与解压，除此之外，还支持轻量级 Windows 资源管理器功能，**本程序适用于 Windows 下所有 Electron ASAR 文件**。
 
-近期，在制作 [飞书消息防撤回补丁](https://github.com/flydoos/FeiShuRevokeMsgPatcher)，然后接触到了 .Asar 格式文件，上网一搜发现这种文件居然要安装 node.js 环境，然后通过 npm 命令行才能进行文件的打包与提取（也就是压缩和解压），找了一圈发现存在个别的 Asar 小工具，但功能都比较单一也不怎么好看，于是乎，自己分析ASAR文件协议，然后动手做一个高仿 WinRAR 的 WinASAR 文件管理工具。
+近期，在制作 [飞书消息防撤回补丁](https://github.com/flydoos/FeiShuRevokeMsgPatcher)，然后接触到了 .Asar 格式文件，上网一搜发现这种文件居然要安装 node.js 环境，然后通过 npm 命令行才能进行文件的打包与提取（也就是压缩和解压），找了一圈发现存在个别的 Asar 小工具，但功能都比较单一也不怎么好看，于是乎，自己分析ASAR文件协议，然后动手做一个高仿 WinRAR 的 WinASAR 文件管理工具，希望大家使用起来就跟WinRAR一样，毫无违和感。
 
 ## 🖥️主要功能
 
