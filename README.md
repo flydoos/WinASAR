@@ -60,6 +60,8 @@ WinASAR文件管理工具（也叫：WinASAR文件压缩/解压工具、WinASAR�
 
 **下载地址：[⚡️最新版 WinASAR 文件管理工具 下载](https://github.com/flydoos/WinASAR/releases/latest)**
 
+其他推荐：[🦇钉钉消息防撤回补丁下载](https://github.com/flydoos/DingTalkRevokeMsgPatcher) | [📖飞书消息防撤回补丁下载](https://github.com/flydoos/FeiShuRevokeMsgPatcher) | [🔖查看作者更多作品](https://github.com/flydoos)
+
 ## 📷截图
 
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Screenshot-1.0.0.png)
@@ -96,6 +98,10 @@ QQ群：223541319 （催更请进群）
 官网：https://www.wuleba.com （2021年国庆的时候网站恢复了，大家去支持下）
 
 对 "WinASAR" 有任何使用上或者技术上的疑问，欢迎随时联系作者。
+
+## 🧧投喂
+
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Donate.png)
 
 ## 📄开源协议
 
