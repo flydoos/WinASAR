@@ -64,7 +64,7 @@ WinASAR文件管理工具（也叫：WinASAR文件压缩/解压工具、WinASAR�
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Screenshot-1.3.0.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Screenshot-1.4.0.png)
 
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Screenshot-List-1.0.0.png)
 
