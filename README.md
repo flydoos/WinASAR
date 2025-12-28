@@ -50,6 +50,8 @@ WinASAR文件管理工具（也叫：WinASAR文件压缩/解压工具、WinASAR�
 
 15. 支持自动保存配置信息，包括：设置信息，查看方式，排序方式，列表各个字段宽度，窗口大小等
 
+16. 支持显示压缩进度窗口、解压进度窗口
+
 ## 📰知识科普
 
 **什么是 ASAR 文件？**
@@ -64,7 +66,7 @@ WinASAR文件管理工具（也叫：WinASAR文件压缩/解压工具、WinASAR�
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Screenshot-1.6.1.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Screenshot-2.0.0.png)
 
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Screenshot-List-1.0.0.png)
 
