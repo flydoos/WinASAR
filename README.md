@@ -66,7 +66,7 @@ WinASAR文件管理工具（也叫：WinASAR文件压缩/解压工具、WinASAR�
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Screenshot-2.0.0.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Screenshot-2.1.0.png)
 
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Screenshot-List-1.0.0.png)
 
@@ -79,9 +79,9 @@ WinASAR文件管理工具（也叫：WinASAR文件压缩/解压工具、WinASAR�
     * Windows XP 或更高版本。
     * [.NET Framework 4.0](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718) 或更高版本。**低于此版本在打开程序时可能无反应，或者直接报错**。
 
-2. **以管理员身份运行本程序**
+2. **普通用户可直接运行，仅当后续操作权限不足时再提示以管理员身份运行**
 
-3. 个人作者开发的软件，**杀毒软件可能会弹出警告，请放行且添加程序目录到信任白名单。**
+3. 个人作者开发的软件，**杀毒软件可能会弹出警告，请放行且添加程序目录到信任白名单（用者不疑，疑者勿用）。**
 
 设置文件格式关联后的效果：
 
